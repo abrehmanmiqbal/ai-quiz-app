@@ -5,5 +5,4 @@ joblib
 fpdf
 transformers
 torch
-sentencepiece
 requests
