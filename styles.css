@@ -1,0 +1,22 @@
+/* style.css */
+body {
+    background: #f9f9fc;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+    color: #5a2a83;
+}
+
+.stButton > button {
+    background-color: #7e57c2;
+    color: white;
+    border-radius: 12px;
+    padding: 10px 20px;
+}
+
+.stRadio > div {
+    background: #f1f1f1;
+    padding: 10px;
+    border-radius: 12px;
+}
