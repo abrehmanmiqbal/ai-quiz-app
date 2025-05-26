@@ -6,3 +6,4 @@ fpdf
 transformers
 torch
 sentencepiece
+requests
